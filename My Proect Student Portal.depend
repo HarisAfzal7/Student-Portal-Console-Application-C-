@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1625120084 source:c:\users\dell\onedrive\desktop\my proect student portal\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<iomanip>
+
+1625171143 source:c:\users\dell\onedrive\desktop\my all subjects\oop\my proect student portal\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<iomanip>
+

@@ -1,0 +1,171 @@
+HarisAfzal
+haritherockstar2@gmail.com
+6626266
+Name:         Haris Afzal
+Father Name:  Afzal Amin
+Address:      Mohallah Ali Zai Tehsil Topi Batakara District Swabi
+Degree Level: BS
+Program:      SE
+Matric Marks: 679
+Percentage:   61.12
+Fsc Marks:    854
+Percentage:   77.56
+End
+English
+P
+P
+P
+P
+A
+P
+P
+A
+P
+P
+P
+P
+P
+P
+OOP
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+Calculus
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+A
+P
+P
+Microeconomics
+P
+A
+P
+P
+P
+A
+P
+P
+P
+P
+P
+A
+P
+A
+OOPLab
+P
+A
+P
+P
+P
+P
+P
+P
+P
+SandM
+P
+P
+P
+P
+P
+A
+P
+P
+P
+P
+P
+A
+P
+A
+English&
+Assignment#1 10 9
+Assignment#1 10 10
+Assignment#3 10 9
+Quiz#1 10 9
+Quiz#2 10 10
+Mid 25 23
+Final 45 40
+EndOfEnglish
+OOP&
+Assignment#1 10 10
+Assignment#2 10 10
+Assignment#3 10 10
+Assignment#4 10 10
+Assignment#5 10 10
+Assignment#6 10 10
+Mid 25 25
+Project-Presentation 10 9
+Final 45 44
+EndOfOOP
+Calculus&
+Assignment#1 10 10
+Assignment#2 10 8
+Assignment#3 10 9
+Quiz#1 10 9
+Quiz#2 10 10
+Mid 25 23
+Final 45 45
+EndOfCalculus
+Microeconomics&
+Assignment#1 5 5
+Assignment#2 5 4
+Assignment#3 5 4
+Quiz#4 5 4
+Quiz#5 5 4
+Quiz#5 5 3
+Mid 30 24
+Final 50 45
+EndOfMicroeconomics
+OOPLab&
+Assignment#1 10 10
+Assignment#2 10 10
+Assignment#3 10 10
+Assignment#4 10 10
+Viva#1 20 19
+Viva#2 20 15
+Final 100 80
+EndOfOOPLab
+SandM&
+Assignment#1 10 9
+Assignment#2 10 10
+Assignment#3 10 8
+Assignment#4 10 10
+Activity#1 10 10
+Activity#2 10 10
+Activity#3 10 10
+Activity#4 10 10
+Activity#5 10 10
+Quiz#1 10 8
+Quiz#2 10 9
+Quiz#3 10 10
+Quiz#4 10 9
+Quiz#5 10 10
+Mid 40 35
+Final 80 77
+EndOfSandM
+Grades
+English B+ 3
+OOP A+ 3
+OOPLab A+ 1
+Microeconomics A- 3
+Descrete-Structure A+ 3
+SandM A+ 3
